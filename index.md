@@ -24,8 +24,8 @@ If you're interested in my work or would like to discuss potential collaboration
 
 ## Work Experience
 
-- **Jan 2022 - July 2023** JD.com, Machine Learning Engineer - LLM and Recommendation
-- **May 2021 - Dec 2021:** Tencent, Machine Learning Engineer Intern - CV and AI
+- **Jan 2022 - July 2023:** JD.com, Machine Learning Engineer (LLM and Recommendation)
+- **May 2021 - Dec 2021:** Tencent, Machine Learning Engineer Intern (CV and AI)
 
 ---
 
