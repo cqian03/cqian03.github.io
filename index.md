@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://qianchen.world/qianchen_1.jpg" class="floatpic" width="360" height="480">
 
-**Chen Qian (钱晨)**
+Here is **Chen Qian (钱晨)**.
 
 Welcome to my page! I am Chen Qian, a first-year Ph.D. student in Computer Science at William & Mary. My research focuses on Foundation Models, with a particular interest in their applications across diverse domains, including network traffic, health, and law.
 
