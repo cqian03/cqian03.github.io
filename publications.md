@@ -4,43 +4,35 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+> Lastest Update: 2nd June 2024&nbsp;
 
-## Conference Paper
+<!-- ## Workshop Paper
 
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-
----
-
-## Thesis (FYP)
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
+- [NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models]()<br>**Chen Qian**, Xiaochang Li, Qineng Wang, Gang Zhou, Huajie Shao<br>International Workshop on Foundation Models for Cyber-Physical Systems & Internet of Things (FMSys), Hong Kong, May 2024
 
   <br>
 
----
+
+--- -->
+
+## Journal Paper
+- [Understanding China’s urban functional patterns at the county scale by using time-series social media data]()<br>Qingfeng Guan, Jianfeng Zhou, Ruifan Wang, Yao Yao, **Chen Qian**, Yaqian Zhai, Shuliang Ren<br>Journal of Spatial Science, 2022
+
+- [Prediction of Hospital Readmission from Longitudinal Mobile Data Streams]()<br>**Chen Qian**, Patraporn Leelaprachakul, Matthew Landers, Carissa Low, Anind K. Dey, Afsaneh Doryab<br>Sensors, 2021
+
+- [Discovering the homogeneous geographic domain of human perceptions from street view images]()<br>Yao Yao, Jiale Wang, Ye Hong, **Chen Qian**, Qingfeng Guan, Xun Liang, Liangyang Dai, Jinbao Zhang<br>Landscape and Urban Planning, 2021
+
+- [Delineating urban job-housing patterns at a parcel scale with street view imagery]()<br>Yao Yao, Jiaqi Zhang, **Chen Qian**, Yu Wang, Shuliang Ren, Zehao Yuan, Qingfeng Guan<br>International Journal of Geographical Information Science, 2021
+
+- [Delineating mixed urban “jobs-housing”patterns at a fine scale by using high spatial resolution remote-sensing imagery]()<br>Yao Yao, Chen Qian, Ye Hong, Qingfeng Guan, Jingmin Chen, Liangyang Dai, Zhangwei Jiang, Xun Liang<br>Complexity, 2020
+
+  <br>
+
+<!-- ---
 
 ## Manuscript
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
+- [Lens: A Foundation Model for Network Traffic in Cybersecurity](https://arxiv.org/pdf/2402.03646)<br>
 
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
+  <br> -->
 
-  <br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
