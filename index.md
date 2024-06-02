@@ -6,17 +6,26 @@ layout: page
 
 <img src="https://qianchen.world/qianchen_1.jpg" class="floatpic" width="360" height="480">
 
-Here is **Chen Qian (钱晨)**.
+Chen Qian (钱晨)
 
-Chen Qian is a first-year Ph.D. student in Computer Science at William & Mary. His research primarily focuses on Foundation Models with a specific interest in their application to Network Traffic. Chen Qian is committed to the development and training of Foundation Models, incorporating domain-specific knowledge to optimize their performance. Furthermore, he is actively engaged in the deployment of these models for various network-related downstream tasks.
+Welcome to my page! I am Chen Qian, a first-year Ph.D. student in Computer Science at William & Mary. My research focuses on Foundation Models, with a particular interest in their applications across diverse domains, including network traffic, health, and law.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *cqian03[at]wm[dot]edu*
+I am dedicated to advancing the development and training of Foundation Models, leveraging domain-specific knowledge to enhance their performance. Additionally, I am actively involved in deploying these models for various downstream tasks.
+
+If you're interested in my work or would like to discuss potential collaborations, feel free to reach out to me via email at [cqian03@wm.edu](mailto:cqian03@wm.edu).
 
 ## Academic Background
 
-- **Aug 2023 - Future：**William & Mary, Ph.D. Student
+- **Aug 2023 - Future:** William & Mary, Ph.D. Student
 - **Sep 2019 - Dec 2021:** University of Virginia, Master of Engineering
 - **Sep 2015 - June 2019:** China University of Geosciences (Wuhan), Bachelor of Engineering
+
+---
+
+## Work Experience
+
+- **Jan 2022 - July 2023** JD.com, Machine Learning Engineer - LLM and Recommendation
+- **May 2021 - Dec 2021:** Tencent, Machine Learning Engineer Intern - CV and AI
 
 ---
 
