@@ -44,7 +44,7 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">FMSys'24</div>
 <div class="pub-details">
-<a href="https://arxiv.org/abs/2403.10319">NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models</a><br><strong>Chen Qian</strong>, Xiaochang Li, Qineng Wang, Gang Zhou, Huajie Shao
+<a href="/file/papers/NetBench-FMSys-2024.pdf">NetBench: A Large-Scale and Comprehensive Network Traffic Benchmark Dataset for Foundation Models</a><br><strong>Chen Qian</strong>, Xiaochang Li, Qineng Wang, Gang Zhou, Huajie Shao
 </div>
 </div>
 
