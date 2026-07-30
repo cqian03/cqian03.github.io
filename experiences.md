@@ -37,7 +37,7 @@ Worked on computer vision and applied AI.
 
 ## Selected Research Milestones
 
-- Published **Lens**, a knowledge-guided foundation model for network traffic, in *Transactions on Machine Learning Research* in 2026.
+- Published **Lens**, a knowledge-guided foundation model for network traffic, in *Transactions on Machine Learning Research* in July 2026.
 - Published **From “Thinking” to “Justifying”** in *Findings of ACL 2026*.
 - Published **Trigger-Finder** at *IEEE/ACM CHASE 2025*.
 - Published **NetBench** at the *IEEE FMSys 2024* workshop.
