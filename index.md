@@ -22,3 +22,30 @@ I work on developing and training foundation models, incorporating domain knowle
 
 - **Jan 2022 - Jul 2023:** JD.com, Machine Learning Engineer (LLM and Recommendation)
 - **May 2021 - Dec 2021:** Tencent, Machine Learning Engineer Intern (Computer Vision and AI)
+
+## Research Projects
+
+<div class="project-grid">
+
+<a class="project-card project-card-lens" href="https://openreview.net/forum?id=cGDwTgnJIR">
+  <span class="project-venue">TMLR 2026</span>
+  <span class="project-title">Lens</span>
+  <span class="project-subtitle">A knowledge-guided foundation model for network traffic classification and generation.</span>
+  <span class="project-link">View project →</span>
+</a>
+
+<a class="project-card project-card-trigger" href="https://doi.org/10.1145/3721201.3721387">
+  <span class="project-venue">CHASE 2025</span>
+  <span class="project-title">Trigger-Finder</span>
+  <span class="project-subtitle">Real-time freezing-of-gait trigger detection with an instruction-tuned multimodal model.</span>
+  <span class="project-link">View project →</span>
+</a>
+
+<a class="project-card project-card-netbench" href="https://github.com/WM-JayLab/NetBench">
+  <span class="project-venue">FMSys 2024</span>
+  <span class="project-title">NetBench</span>
+  <span class="project-subtitle">A comprehensive benchmark for network traffic foundation models.</span>
+  <span class="project-link">View project →</span>
+</a>
+
+</div>
