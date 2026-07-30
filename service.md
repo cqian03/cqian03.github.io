@@ -22,4 +22,4 @@ title: Service
 
 ## Collaboration
 
-I welcome research discussions and collaborations involving foundation models, network intelligence, multimodal health applications, and reliable AI for high-stakes domains. Please contact me at [cqian03@wm.edu](mailto:cqian03@wm.edu).
+I welcome research discussions and collaborations involving structured generation, verifiable AI, network intelligence, multimodal health applications, and trustworthy language models for high-stakes domains. Please contact me at [cqian03@wm.edu](mailto:cqian03@wm.edu).

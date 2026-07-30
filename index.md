@@ -5,9 +5,9 @@ layout: page
 
 ## About Me
 
-I am **Chen Qian (钱晨)**, a Ph.D. student in Computer Science at William & Mary. My research focuses on <span class="accent">foundation models</span>, with particular interests in network traffic, health, and high-stakes AI applications.
+I am **Chen Qian (钱晨)**, a Ph.D. student in Computer Science at William & Mary. My research centers on <span class="accent">structured and verifiable generation</span>: building trustworthy language model systems for high-stakes domains.
 
-I work on developing and training foundation models, incorporating domain knowledge to improve their performance, and deploying them for downstream tasks. If you are interested in my work or potential collaborations, feel free to reach out at [cqian03@wm.edu](mailto:cqian03@wm.edu).
+I develop methods that make model outputs more reliable, interpretable, and aligned with domain-specific requirements, with applications in healthcare, law, and network intelligence. If you are interested in my work or potential collaborations, feel free to reach out at [cqian03@wm.edu](mailto:cqian03@wm.edu).
 
 ---
 ## Academic Background

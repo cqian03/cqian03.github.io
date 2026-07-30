@@ -9,7 +9,7 @@ title: Experiences
 ### William & Mary
 
 **Ph.D. Student in Computer Science** *(Aug 2023 - Present)*  
-Research in foundation models and their applications to network traffic, health, and high-stakes decision support.
+Research in structured and verifiable generation for trustworthy language model systems in high-stakes domains.
 
 ### University of Virginia
 
