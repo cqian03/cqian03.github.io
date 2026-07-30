@@ -70,7 +70,7 @@ title: Publications
 <div class="pub-item">
 <div class="pub-venue">LUP</div>
 <div class="pub-details">
-<a href="/file/papers/eprint-Discoveringthehomogeneousgeographicdomainofhumanperceptionsfromstreetviewimages.pdf">Discovering the Homogeneous Geographic Domain of Human Perceptions from Street View Images</a><br>Yao Yao, Jiale Wang, Ye Hong, <strong>Chen Qian</strong>, Qingfeng Guan, Xun Liang, Liangyang Dai, Jinbao Zhang
+<a href="https://doi.org/10.1016/j.landurbplan.2021.104125">Discovering the Homogeneous Geographic Domain of Human Perceptions from Street View Images</a><br>Yao Yao, Jiale Wang, Ye Hong, <strong>Chen Qian</strong>, Qingfeng Guan, Xun Liang, Liangyang Dai, Jinbao Zhang
 </div>
 </div>
 
